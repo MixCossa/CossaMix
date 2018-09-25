@@ -1,9 +1,9 @@
 <?php
 error_reporting(0);
 /**
- * @Author: MixCossa
+ * @Author: Eka Syahwan
  * @Date:   2017-11-06 22:54:36
- * @Last Modified by:   Eka Syahwan
+ * @Last Modified by:   CossaMix
  * @Last Modified time: 2017-12-11 17:12:21
  */
 class Modules
